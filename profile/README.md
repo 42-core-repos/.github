@@ -8,6 +8,7 @@
 ## 🔗 Important Links
 - 🌐 **Website**: [coregame.de](https://coregame.de/)
 - 📚 **Documentation**: [wiki.coregame.de](https://wiki.coregame.de/#/)
+- 📝 **Source Code**: [Core Repositories](https://github.com/orgs/42core-team/repositories)
 
 ## 📂 Your Repository
 Welcome! Head to your Repository in the Repositories Section which is your dedicated space to push and manage your code, just like an **Intra** Project Repo.
